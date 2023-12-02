@@ -1,6 +1,6 @@
 ## Author - Yashvardhan Limbodiya
 
-## Assignment Description
+## Description
 
 ### Calculator App
 
